@@ -1,0 +1,22 @@
+{
+  "name": "angular-s3-upload",
+  "version": "1.0.0",
+  "description": "Angular Amazon Web Services (AWS) S3 Upload Directive",
+  "main": "src/angular-s3-upload.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cultivate4/angular-s3-upload/angular-s3-upload.git"
+  },
+  "author": "Jordan de Laune <jordan@cultivate4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cultivate4/angular-s3-upload/issues"
+  },
+  "homepage": "https://github.com/cultivate4/angular-s3-upload",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-sourcemaps": "~1.5.2",
+    "gulp-rename": "~1.2.2",
+    "gulp-uglify": "~1.2.0"
+  }
+}

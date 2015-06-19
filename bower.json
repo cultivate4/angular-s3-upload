@@ -1,0 +1,21 @@
+{
+  "name": "angular-s3-upload",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cultivate4/angular-s3-upload",
+  "authors": [
+    "Jordan de Laune <jordan@cultivate4.com>"
+  ],
+  "description": "Angular Amazon Web Services (AWS) S3 Upload Directive",
+  "main": "src/angular-s3-upload.js",
+  "keywords": [
+    "Angular",
+    "AWS",
+    "S3",
+    "Amazon"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.3.0",
+    "bootstrap": "~3.3.0"
+  }
+}
